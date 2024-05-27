@@ -22,6 +22,7 @@ This project is an AI-powered sales insights dashboard designed to provide intel
 
 Create a `.env` and add the following environment variables:
 
+```
 USERNAME=your_db_username
 PASSWORD=your_db_password
 DATABASE=your_db_name
@@ -30,6 +31,7 @@ DIALECT=mysql
 DB_PORT=3306
 PORT=8000
 HUGGINGFACE_API_KEY=your_huggingface_api_key
+```
 
 ### Installation
 
