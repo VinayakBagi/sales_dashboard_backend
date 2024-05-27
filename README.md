@@ -20,7 +20,7 @@ This project is an AI-powered sales insights dashboard designed to provide intel
 
 ### Environment Variables
 
-Create a `.env` file in the `server` directory and add the following environment variables:
+Create a `.env` and add the following environment variables:
 
 USERNAME=your_db_username
 PASSWORD=your_db_password
